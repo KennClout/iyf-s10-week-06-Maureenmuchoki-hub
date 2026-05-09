@@ -1,8 +1,8 @@
 # Week 6: Asynchronous JavaScript
 
 ## Author
-- **Name:** Maureen Muchoki
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub)
+- **Name:** Kenneth Kabathi 
+- **GitHub:** [@KennClout](https://github.com/KennClout-hub)
 - **Date:** March  24, 2026
 
 ## Project Description
@@ -53,4 +53,4 @@ This project is a Weather Dashboard built using the OpenWeatherMap API. It allow
 ![Weather DashBoard Output](screenshots/Weather-Dashboard-Output.png)
 
 ## Live Demo 
-[Weather DashBoard](https://maureenmuchoki-hub.github.io/iyf-s10-week-06-Maureenmuchoki-hub/index.html)
+[Weather DashBoard](https://KennClouthub.github.io/iyf-s10-week-06-KennClout-hub/index.html)
